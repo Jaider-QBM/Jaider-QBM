@@ -80,18 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
-<h3 align="left">📢 Contacto</h3>
-
-###
-
-- **📧 Email**: [jaiderstivenquimbaya8@gmail.com](mailto:jaiderstivenquimbaya8@gmail.com)
-- **📞 Teléfono**: +57 312 5394850
-- **🔗 LinkedIn**: [linkedin.com/in/jaider-quimbaya](#)
-
-###
-
 <h5 align="left">¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar en proyectos o compartir ideas. ¡Estoy emocionado por construir grandes cosas juntos! 🌟</h5>
 
 ###

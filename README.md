@@ -11,6 +11,9 @@
   <a href="https://wa.me/qr/WRGKVDXC73LAN1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="whatsapp logo"  />
   </a>
+  <a href="mailto:jaiderstivenquimbaya8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -80,6 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+###
 <h5 align="left">¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar en proyectos o compartir ideas. ¡Estoy emocionado por construir grandes cosas juntos! 🌟</h5>
 
 ###
